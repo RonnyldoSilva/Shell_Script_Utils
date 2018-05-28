@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Script para verificar o DPI da imagem  
-# (Colocar no diretório com as imagens, dar a permissão 777 via chmod e executar
-# com ./script.sh   só e somente.... (Shell script é TOP).
+# Colocar no diretório com as imagens, dar a permissão 777 via chmod e executar
 
 diretorio=$(ls *.jpg)
 
