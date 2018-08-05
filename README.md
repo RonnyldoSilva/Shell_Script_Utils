@@ -1,2 +1,2 @@
-# Scripts_Shell_Utils
-Some scripts to get some metrics, or modify some files.
+# Scripts Shell Utils
+Some scripts to get some metrics and modify some files.
