@@ -1,6 +1,6 @@
 # Scripts Shell Utils
 
-Some scripts to get some metrics and modify some files.
+Some scripts to get metrics and modify files.
 
 ```diff
 + sh script.sh
