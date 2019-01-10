@@ -43,12 +43,8 @@ sudo ln -s libtbb.so libtbb.so.2
 cd ..
 
 sudo apt-get install -y libboost-all-dev
-
 sudo apt-get install -y libopenblas-base
-
 sudo apt-get install -y libgfortran3
-
-
 
 LD_LIBRARY_PATH=$(pwd)/libs/
 export LD_LIBRARY_PATH
@@ -60,5 +56,3 @@ echo LD_LIBRARY_PATH=$(pwd)/libs/ >> ~/.bashrc
 echo "export LD_LIBRARY_PATH" >> ~/.bashrc
 
 source ~/.bashrc
-
-
