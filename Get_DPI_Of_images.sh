@@ -10,3 +10,4 @@ do
     #echo $entrada
     echo $entrada ' -  ' $(identify -verbose $entrada | grep Resolution) >> output.txt
 done
+
