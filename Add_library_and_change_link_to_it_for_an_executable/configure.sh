@@ -35,9 +35,7 @@ sudo ln -s libopencv_imgproc.so.3.4.0 libopencv_imgproc.so
 sudo ln -s libopencv_imgproc.so.3.4.0 libopencv_imgproc.so.3.4
 
 sudo ln -s libjasper.so libjasper.so.1
-
 sudo ln -s libjasper.so libjasper.so.1.0.0
-
 sudo ln -s libtbb.so libtbb.so.2
 
 cd ..
