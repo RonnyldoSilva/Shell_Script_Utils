@@ -1,4 +1,4 @@
-cd libs
+cd libs 
 
 rm libopencv_core.so
 rm libopencv_core.so.3.4
