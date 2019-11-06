@@ -8,6 +8,3 @@ How to execute:
 ```
 sh script.sh
 ```
-
-
- 
